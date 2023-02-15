@@ -1,0 +1,12 @@
+.navbar-page {
+    background-color: #262b40;
+}
+
+.nav-item-page:hover {
+    background-color: #2e3650;
+    border-radius: 5px;
+}
+
+.nav-link-page {
+    color: #ffffff !important;
+}

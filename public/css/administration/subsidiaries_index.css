@@ -1,0 +1,22 @@
+@media (max-width:991px) {
+    .col-buttons {
+        padding-top: 0px;
+    }
+}
+
+@media (min-width:992px) and  (max-width:1015px){
+    .col-buttons {
+        padding-top: 50px;
+        display: flex;
+        justify-content: end;
+    }
+}
+@media (min-width:1016px) {
+    .col-buttons {
+        padding-top: 30px;
+        display: flex;
+        justify-content: end;
+    }
+}
+
+

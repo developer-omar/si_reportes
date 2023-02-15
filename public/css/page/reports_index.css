@@ -1,0 +1,11 @@
+@media (min-width:992px) {
+    .container-btn {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .btn-pdf {
+        justify-content: flex-end;
+        margin-top: 25px;
+    }
+}
